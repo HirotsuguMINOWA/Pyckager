@@ -1,0 +1,5 @@
+#strenum
+pathlib
+chardet
+Cython
+PyInstaller

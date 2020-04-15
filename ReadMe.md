@@ -8,8 +8,8 @@ This code will make prevent leakage of code.
 PythonソースコードをNativeCode化して，生成物をPythonソースコードの代わりにパッケージングして配布できるようにするモジュールです.
 
 ## Disclaimer-免責
-SUPPLIER DISCLAIMS ALL WARRANTIES NOT EXPRESSLY SET FORTH IN THIS AGREEMENT.
-サプライヤーは、本契約に明記された保証を除くほかは、すべての保証責任を排除する。
+- SUPPLIER DISCLAIMS ALL WARRANTIES NOT EXPRESSLY SET FORTH IN THIS AGREEMENT.
+- サプライヤーは、本契約に明記された保証を除くほかは、すべての保証責任を排除する。
 
 ## State: DEVELOPPING
 - This development is alpha version now. (my source code could be built only)
